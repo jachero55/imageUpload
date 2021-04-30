@@ -24,3 +24,4 @@ npm install --save sequelize
 npm install --save-dev sequelize-cli pg pg-hstore
 
 # npx sequelize-cli init - run this command to initialize our project with Sequelize
+This creates the folders needed

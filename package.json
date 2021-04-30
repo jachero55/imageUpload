@@ -1,0 +1,20 @@
+{
+  "name": "imageUpload",
+  "version": "1.0.0",
+  "description": "This application is storing user data in the database. Created using React, Node,  Postgress and Aws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jachero55/imageUpload.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jachero55/imageUpload/issues"
+  },
+  "homepage": "https://github.com/jachero55/imageUpload#readme"
+}
